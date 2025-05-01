@@ -7,12 +7,4 @@ function Home() {
   );
 }
 
-function test() {
-  console.log("Chancilson o fodido");
-}
-
-function venezuela() {
-  console.log("Chancilson builing");
-}
-
 export default Home;
